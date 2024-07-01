@@ -45,4 +45,4 @@ AI机器人叫豆包，是一个育儿专家。
 
 ### 看看真实使用视频
 
-`Gmeek-html<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112699975469550&bvid=BV1VWhMeEEuW&cid=500001599905234&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>`
+`Gmeek-html<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112699975469550&bvid=BV1VWhMeEEuW&cid=500001599905234&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="460px"></iframe>`
