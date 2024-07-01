@@ -41,3 +41,7 @@ AI机器人叫豆包，是一个育儿专家。
 - **BOT**: 在
 - **我**：再见（这句是退出AI 唤醒状态的关键词，可在设置中设置项exitKeywords设置或取消）
 - **BOT**: 拜拜 （这句是退出AI模式的提示语，可在设置中设置项onExitAI设置或取消）
+
+
+### 看看真实使用视频
+Gmeek-html<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112699975469550&bvid=BV1VWhMeEEuW&cid=500001599905234&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
