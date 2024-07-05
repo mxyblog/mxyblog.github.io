@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>陌小雨的博客</title><link>https://mxyblog.github.io</link><description>我是陌小雨，横跨游戏IT土木的NPC</description><copyright>陌小雨的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/32597778?v=4</url><title>avatar</title><link>https://mxyblog.github.io</link></image><lastBuildDate>Wed, 03 Jul 2024 15:15:31 +0000</lastBuildDate><managingEditor>陌小雨的博客</managingEditor><ttl>60</ttl><webMaster>陌小雨的博客</webMaster><item><title>小爱音箱pro接入migpt后AI唤醒保姆级使用说明</title><link>https://mxyblog.github.io/post/xiao-ai-yin-xiang-pro-jie-ru-migpt-hou-AI-huan-xing-bao-mu-ji-shi-yong-shuo-ming.html</link><description>默认设置的使用说明，只是更改了机器人名字和角色设定&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>陌小雨的博客</title><link>https://mxyblog.github.io</link><description>我是陌小雨，横跨游戏IT土木的NPC</description><copyright>陌小雨的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/32597778?v=4</url><title>avatar</title><link>https://mxyblog.github.io</link></image><lastBuildDate>Fri, 05 Jul 2024 14:53:52 +0000</lastBuildDate><managingEditor>陌小雨的博客</managingEditor><ttl>60</ttl><webMaster>陌小雨的博客</webMaster><item><title>maya小技巧一双击工具架命令打开命令选项窗口</title><link>https://mxyblog.github.io/post/maya-xiao-ji-qiao-yi-shuang-ji-gong-ju-jia-ming-ling-da-kai-ming-ling-xuan-xiang-chuang-kou.html</link><description>我们知道在maya中，选择菜单命令时同时按住Ctrl+Shift可以将当前选择命令加入工具架，但是有一些命令有一些选项窗口，以绑定为例，常用的调整骨骼轴向，镜像权重等，加入工具架并不能做到很方便的调出这些命令的选项窗口，可以额外简单设置一下，以调整骨骼轴向为例，命令为&#13;
+&#13;
+`OrientJoint;`&#13;
+&#13;
+我们只需要在命令后面加上Options即可，也就是变成&#13;
+&#13;
+`OrientJointOptions;`&#13;
+&#13;
+然后将上面命令配置到双击Double Click Command下即可，如下图所示：&#13;
+&#13;
+![shelfTips](https://github.com/mxyblog/mxyblog.github.io/assets/32597778/673aeea3-3611-4250-b83d-622ff209c778)&#13;
+&#13;
+可以依葫芦画瓢，本办法适合大多数有选项窗口的菜单命令&#13;
+。</description><guid isPermaLink="true">https://mxyblog.github.io/post/maya-xiao-ji-qiao-yi-shuang-ji-gong-ju-jia-ming-ling-da-kai-ming-ling-xuan-xiang-chuang-kou.html</guid><pubDate>Fri, 05 Jul 2024 14:53:22 +0000</pubDate></item><item><title>小爱音箱pro接入migpt后AI唤醒保姆级使用说明</title><link>https://mxyblog.github.io/post/xiao-ai-yin-xiang-pro-jie-ru-migpt-hou-AI-huan-xing-bao-mu-ji-shi-yong-shuo-ming.html</link><description>默认设置的使用说明，只是更改了机器人名字和角色设定&#13;
 &#13;
 AI机器人叫豆包，是一个育儿专家。</description><guid isPermaLink="true">https://mxyblog.github.io/post/xiao-ai-yin-xiang-pro-jie-ru-migpt-hou-AI-huan-xing-bao-mu-ji-shi-yong-shuo-ming.html</guid><pubDate>Sun, 30 Jun 2024 15:45:58 +0000</pubDate></item><item><title>猫川CG</title><link>https://mxyblog.github.io/post/mao-chuan-CG.html</link><description>### 《阴阳师》猫川CG | 泉涌财盈（CV：广濑裕也）&#13;
 &#13;
