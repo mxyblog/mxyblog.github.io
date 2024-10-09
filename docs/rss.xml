@@ -1,24 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>作品集</title><link>https://mxyblog.github.io</link><description>他强任他强，清风拂山岗</description><copyright>作品集</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/32597778?v=4</url><title>avatar</title><link>https://mxyblog.github.io</link></image><lastBuildDate>Wed, 09 Oct 2024 02:04:55 +0000</lastBuildDate><managingEditor>作品集</managingEditor><ttl>60</ttl><webMaster>作品集</webMaster><item><title>祸津神CG</title><link>https://mxyblog.github.io/post/huo-jin-shen-CG.html</link><description>### 《阴阳师》祸津神CG | 祸神盛宴（CV：中野彩麻）&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>作品集</title><link>https://mxyblog.github.io</link><description>他强任他强，清风拂山岗</description><copyright>作品集</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/32597778?v=4</url><title>avatar</title><link>https://mxyblog.github.io</link></image><lastBuildDate>Wed, 09 Oct 2024 08:20:59 +0000</lastBuildDate><managingEditor>作品集</managingEditor><ttl>60</ttl><webMaster>作品集</webMaster><item><title>祸津神CG</title><link>https://mxyblog.github.io/post/huo-jin-shen-CG.html</link><description>### 《阴阳师》祸津神CG | 祸神盛宴（CV：中野彩麻）&#13;
 &#13;
 `Gmeek-html&lt;iframe src='//player.bilibili.com/player.html?isOutside=true&amp;aid=1606184510&amp;bvid=BV1Em421g7kA&amp;cid=1609521335&amp;p=1' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true' width='100%' height='460px'&gt;&lt;/iframe&gt;`&#13;
 &#13;
 - 服务环节：绑定&#13;
 - 合作QQ：274728691&#13;
-- 业务邮箱：mxyblog@foxmail.com。</description><guid isPermaLink="true">https://mxyblog.github.io/post/huo-jin-shen-CG.html</guid><pubDate>Wed, 10 Jul 2024 14:54:59 +0000</pubDate></item><item><title>maya小技巧一双击工具架命令打开命令选项窗口</title><link>https://mxyblog.github.io/post/maya-xiao-ji-qiao-yi-shuang-ji-gong-ju-jia-ming-ling-da-kai-ming-ling-xuan-xiang-chuang-kou.html</link><description>我们知道在maya中，选择菜单命令时同时按住Ctrl+Shift可以将当前选择命令加入工具架，但是有一些命令有一些选项窗口，以绑定为例，常用的调整骨骼轴向，镜像权重等，加入工具架并不能做到很方便的调出这些命令的选项窗口，可以额外简单设置一下，以调整骨骼轴向为例，命令为&#13;
-&#13;
-`OrientJoint;`&#13;
-&#13;
-我们只需要在命令后面加上Options即可，也就是变成&#13;
-&#13;
-`OrientJointOptions;`&#13;
-&#13;
-然后将上面命令配置到双击Double Click Command下即可，如下图所示：&#13;
-&#13;
-![shelfTips](https://github.com/mxyblog/mxyblog.github.io/assets/32597778/673aeea3-3611-4250-b83d-622ff209c778)&#13;
-&#13;
-可以依葫芦画瓢，本办法适合大多数有选项窗口的菜单命令&#13;
-。</description><guid isPermaLink="true">https://mxyblog.github.io/post/maya-xiao-ji-qiao-yi-shuang-ji-gong-ju-jia-ming-ling-da-kai-ming-ling-xuan-xiang-chuang-kou.html</guid><pubDate>Fri, 05 Jul 2024 14:53:22 +0000</pubDate></item><item><title>猫川CG</title><link>https://mxyblog.github.io/post/mao-chuan-CG.html</link><description>### 《阴阳师》猫川CG | 泉涌财盈（CV：广濑裕也）&#13;
+- 业务邮箱：mxyblog@foxmail.com。</description><guid isPermaLink="true">https://mxyblog.github.io/post/huo-jin-shen-CG.html</guid><pubDate>Wed, 10 Jul 2024 14:54:59 +0000</pubDate></item><item><title>猫川CG</title><link>https://mxyblog.github.io/post/mao-chuan-CG.html</link><description>### 《阴阳师》猫川CG | 泉涌财盈（CV：广濑裕也）&#13;
 &#13;
 `Gmeek-html&lt;iframe src='//player.bilibili.com/player.html?isOutside=true&amp;aid=1655591591&amp;bvid=BV1D7421R7jF&amp;cid=1578411901&amp;p=1' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true' width='100%' height='460px'&gt;&lt;/iframe&gt;`&#13;
 &#13;
